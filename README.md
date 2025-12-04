@@ -24,6 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MonekyTheShep/MonekyTheShep/blob/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MonekyTheShep/MonekyTheShep/refs/heads/output/github-snake.svg" alt="Snake animation" />
 
 ###
