@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello. I am a 17 year old furry who got back into programming and is trying to level up their skills.</p>
+<p align="left">Hello. I am a 18 year old furry who got back into programming and is trying to level up their skills.</p>
 
 ###
 
