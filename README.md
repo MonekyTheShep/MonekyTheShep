@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello. I am a 18 year old furry. I am experienced in computing tutoring and will be happy to help.</p>
+<p align="left">Hello. I am a multilingual 18 year old furry from UK. I am experienced in computing tutoring and will be happy to help.</p> 
 
 ###
 
